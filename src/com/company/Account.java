@@ -1,5 +1,5 @@
 package com.company;
-
+//import java.io.File;
 public class Account {
     //polja podataka
     private int accountNumber = (int)(Math.random()*100000);
