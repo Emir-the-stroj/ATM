@@ -23,6 +23,17 @@ public Transfer(){}
 // setteri
 
 
+    public int getSourceAccount() {
+        return sourceAccount;
+    }
+
+    public int getTargetAccount() {
+        return targetAccount;
+    }
+
+    public double getAmmount() {
+        return ammount;
+    }
 
     public void setSourceAccount(int sourceAccount) {
 
