@@ -59,7 +59,7 @@ public class Account {
        ammountOnAccount+=ammount;
     }
 
-    public void removeFunds(double ammount) {
+    public void removeFunds(double ammount)  {
         ammountOnAccount-=ammount;
     }
 
